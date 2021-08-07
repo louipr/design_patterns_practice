@@ -1,0 +1,4 @@
+.*
+!.gitignore
+*.code-workspace
+__pycache__
